@@ -1,2 +1,0 @@
-# awist
-public pages
